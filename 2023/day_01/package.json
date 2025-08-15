@@ -1,0 +1,26 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "A project for basic arithmetic operations using TypeScript.",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {
+    "package.json": "2.0.1",
+    "ts-node": "10.9.2"
+  },
+  "devDependencies": {
+    "@types/jest": "27.5.2",
+    "jest": "27.5.1",
+    "ts-jest": "27.1.5",
+    "typescript": "^4.0.0"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "day_05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ts-node": "10.9.2"
+  },
+  "devDependencies": {
+    "@types/jest": "30.0.0",
+    "jest": "30.0.5",
+    "ts-jest": "29.4.1",
+    "typescript": "5.9.2"
+  }
+}
